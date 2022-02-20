@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body{
+      height: calc(100vh - 30px);
+      background-color: black;
+  }
+
+  footer{
+      height: 30px;
+      background-color: grey;
+  }
