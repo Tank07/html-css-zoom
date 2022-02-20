@@ -22,8 +22,7 @@
 
   .img-container{
       width: calc(100% / 7);
-      background-image: url(".//assets/images/random-pic.jpg");
-      height: 200px;
+      background-image: url("768-200x200.jpg");
       border: 1px solid red;
       background-repeat: no-repeat;
       background-position: center;
