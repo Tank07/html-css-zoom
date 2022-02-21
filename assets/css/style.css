@@ -29,6 +29,17 @@
       margin-bottom: 10px;
   }
 
+  .acc-name{
+    display: flex;
+    height: 100%;
+    align-items: flex-end;
+    color: white;
+  }
+
+  .grey{
+    background-color: rgba(13, 175, 62, 0.5);
+  }
+
     footer{
         background-color: grey;
         height: 10vh;
